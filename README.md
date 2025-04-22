@@ -136,4 +136,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 Your Name - [dadigenikhil@gmail.com](mailto:dadigenikhil@gmail.com)
-Project Link: [[https://github.com/your-username/major-pro](https://github.com/NikhilDadige47/Customer-Review-Data-Analysis-of-E-commerce-using-Apache-Kafka-and-NLP]](https://github.com/NikhilDadige47/Customer-Review-Data-Analysis-of-E-commerce-using-Apache-Kafka-and-NLP)
+Project Link: [https://github.com/your-username/major-pro](https://github.com/NikhilDadige47/Customer-Review-Data-Analysis-of-E-commerce-using-Apache-Kafka-and-NLP]](https://github.com/NikhilDadige47/Customer-Review-Data-Analysis-of-E-commerce-using-Apache-Kafka-and-NLP](https://github.com/NikhilDadige47/Customer-Review-Data-Analysis-of-E-commerce-using-Apache-Kafka-and-NLP]](https://github.com/NikhilDadige47/Customer-Review-Data-Analysis-of-E-commerce-using-Apache-Kafka-and-NLP)
