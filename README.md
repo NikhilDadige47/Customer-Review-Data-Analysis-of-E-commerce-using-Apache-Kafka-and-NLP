@@ -135,5 +135,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Google Generative AI for NLP support
 
 ## Contact
-Your Name - [your.email@example.com](mailto:dadigenikhil@gmail.com)
-Project Link: [https://github.com/your-username/major-pro](https://github.com/NikhilDadige47/Customer-Review-Data-Analysis-of-E-commerce-using-Apache-Kafka-and-NLP)
+Your Name - [dadigenikhil@gmail.com](mailto:dadigenikhil@gmail.com)
+Project Link: [[https://github.com/your-username/major-pro](https://github.com/NikhilDadige47/Customer-Review-Data-Analysis-of-E-commerce-using-Apache-Kafka-and-NLP]](https://github.com/NikhilDadige47/Customer-Review-Data-Analysis-of-E-commerce-using-Apache-Kafka-and-NLP)
