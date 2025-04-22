@@ -37,7 +37,7 @@ major-pro/
 ├── analysis.py          # Data analysis and visualization logic
 ├── consumer.py          # Kafka consumer implementation
 ├── dashboard.py         # Interactive web dashboard
-├── p.py                # Review scraper and Kafka producer
+├── producer.py                # Review scraper and Kafka producer
 ├── enriched_reviews.csv # Processed review data
 ├── flipkart_results.csv # Raw scraped reviews
 └── requirements.txt     # Project dependencies
@@ -77,7 +77,7 @@ major-pro/
 
 ### 1. Start Data Collection
 ```bash
-python p.py
+python producer.py
 ```
 
 ### 2. Process Reviews
@@ -97,23 +97,27 @@ python analysis.py
 
 ## Results
 
-### Dashboard Overview
-![Dashboard Overview](screenshots/dashboard_overview.png)
-*Interactive dashboard showing key metrics and insights*
+### Terminal
+![Terminal](output_screens/TERMINAL.jpeg)
+*Initial Execution Interface*
 
 ### Sentiment Analysis
-![Sentiment Distribution](screenshots/sentiment_distribution.png)
+![Sentiment Anaysis](output_screens/ANALYSIS-PREVIEW.jpeg)
 *Distribution of customer sentiments across products*
 
-### Word Cloud Visualization
-![Word Cloud](screenshots/word_cloud.png)
-*Common terms in customer reviews*
+### Review Summary
+![Review Summary](output_screens/REVIEW-SUMMARY.jpeg)
+*Review summary of customer reviews*
+
+### Visualizations
+![Visualizations](output_screens/VISUALIZATIONS.jpeg)
+*Review summary of customer reviews*
 
 ## Key Findings
-- Successfully processed X,XXX reviews
-- Achieved Y% accuracy in sentiment analysis
-- Identified Z% potential fake reviews
-- [Additional insights...]
+- Successfully processed 100 reviews
+- Identified 18% potential fake reviews
+- Identified 73% positive reviews
+- Identified 3.98 average rating
 
 ## Contributing
 1. Fork the repository
@@ -131,5 +135,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Google Generative AI for NLP support
 
 ## Contact
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-Project Link: [https://github.com/your-username/major-pro](https://github.com/your-username/major-pro)
+Your Name - [your.email@example.com](mailto:dadigenikhil@gmail.com)
+Project Link: [https://github.com/your-username/major-pro](https://github.com/NikhilDadige47/Customer-Review-Data-Analysis-of-E-commerce-using-Apache-Kafka-and-NLP)
