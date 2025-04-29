@@ -87,7 +87,7 @@ except:
     df = df.dropna(subset=['date'])
 
 # Initialize Gemini API (Replace with your API key)
-GEMINI_API_KEY = "AIzaSyAYV1l04EGjko4Ogf7afzg60DsAH333UgY"  # Replace with your actual Gemini API key
+GEMINI_API_KEY = "YOUR API KEY"  # Replace with your actual Gemini API key
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Configure the Gemini model
